@@ -1,7 +1,4 @@
-/*
- * File: 103-python.c
- * Auth: Brennan D Baraban
- */
+
 
 #include <Python.h>
 
